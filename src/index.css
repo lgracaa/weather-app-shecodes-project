@@ -19,7 +19,7 @@ header {
 }
 
 .search-form-input {
-  background-color: rgb(245, 236, 251);
+  background-color: rgb(247, 244, 249);
   border: none;
   border-radius: 6px;
   width: 80%;
@@ -27,7 +27,7 @@ header {
 }
 
 .search-form-button {
-  background: rgb(255, 213, 220);
+  background: blueviolet;
   padding: 14px 27px;
   border: none;
   font-size: 16px;
@@ -97,8 +97,10 @@ main {
 }
 
 .weather-forecast-icon {
-  font-size: 35px;
-  text-align: center;
+  width: 70px;
+  height: 70px;
+  display: block;
+  margin: 0 auto;
 }
 
 .weather-forecast-temperatures {
